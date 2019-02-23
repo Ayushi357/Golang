@@ -1,5 +1,5 @@
 Simple GO Lang REST API
-Simple RESTful API to create, read and update users. No database implementation yet
+Simple RESTful API to create, read and update users. 
 
 Quick Start
 # Install mux router
